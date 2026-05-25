@@ -13,8 +13,7 @@ int main()
     scanf("%d", &height);
 
     printf("area of circle is %.2f\n", 3.14 * radius * radius);
-
-    printf("volume of cylinder is %f\n", 3.14 * radius * radius * height);
+    printf("volume of cylinder is %.2f\n", 3.14 * radius * radius * height);
 
     return 0;
 }
