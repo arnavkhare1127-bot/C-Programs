@@ -4,8 +4,10 @@ int main()
 {
     int a;
     int b=97;
+    
     printf("enter the number\n");
     scanf("%d", &a);
+    
     if(a%b==0)
     {
     printf("Number is divisible");
