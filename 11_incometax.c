@@ -9,7 +9,7 @@ Note that there is no tax below 2.5L. Take income amount as an input from the us
 int main()
 {
     int income;
-    float tax;
+    float tax=0;
 
     printf("Enter the income\n");
     scanf("%d", &income);
