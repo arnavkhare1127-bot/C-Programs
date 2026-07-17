@@ -9,6 +9,6 @@ int main()
    scanf("%d", &a);
 
    printf("Area is %f", pow(a, 2));
-   
+
    return 0;
 }
