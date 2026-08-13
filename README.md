@@ -3,54 +3,56 @@ The course is divided into several chapters, each focusing on different aspects 
 
 ## 📚 Topics Covered
 **Variables, Constants & Keywords**
-Learn how to declare and initialize variables in C.
-Understand different types of constants.
-Familiarize yourself with reserved words in C.
+- Learn how to declare and initialize variables in C.
+- Understand different types of constants.
+- Familiarize yourself with reserved words in C.
 
-Instructions and Operators
-Different types of instructions in C.
-Arithmetic, relational, and logical operators.
-Implicit and explicit type conversions.
+**Instructions and Operators**
+- Different types of instructions in C.
+- Arithmetic, relational, and logical operators.
+- Implicit and explicit type conversions.
 
-Conditional Instructions
-Conditional execution of code using if-else statements.
-Evaluate conditions using relational and logical operators.
+**Conditional Instructions**
+- Conditional execution of code using if-else statements.
+- Evaluate conditions using relational and logical operators.
 
-Loop Control Instructions
-while, do-while, and for loops.
-Control statements like break and continue.
+**Loop Control Instructions**
+- while, do-while, and for loops.
+- Control statements like break and continue.
 
-Functions and Recursion
-Definition, declaration, and calling of functions.
-Concept and usage of recursive functions.
+**Functions and Recursion**
+- Definition, declaration, and calling of functions.
+- Concept and usage of recursive functions.
 
-Pointers
-Declaration and usage of pointers.
-Operations involving pointers.
+**Pointers**
+- Declaration and usage of pointers.
+- Operations involving pointers.
 
-Arrays
-Single-dimensional and multi-dimensional arrays.
-Accessing array elements using pointers.
+**Arrays**
+- Single-dimensional and multi-dimensional arrays.
+- Accessing array elements using pointers.
 
-Strings
-Initialization and manipulation of strings.
-Standard library functions for strings.
+**Strings**
+- Initialization and manipulation of strings.
+- Standard library functions for strings.
 
-Structures
-Definition and usage of structures.
-Accessing structure members using pointers.
+**Structures**
+- Definition and usage of structures.
+- Accessing structure members using pointers.
 
-File I/O
-Reading from and writing to files.
-Handling files using pointers.
+**File I/O**
+- Reading from and writing to files.
+- Handling files using pointers.
 
-Dynamic Memory Allocation
-malloc(), calloc(), realloc(), and free() functions.
-Managing dynamically allocated memory.
-Projects
+**Dynamic Memory Allocation**
+- malloc(), calloc(), realloc(), and free() functions.
+- Managing dynamically allocated memory.
+  
+##Projects
+**Project 1**
+- Number Guessing Game
+- A fun game where the player tries to guess a randomly generated number.
 
-Project 1: Number Guessing Game
-A fun game where the player tries to guess a randomly generated number.
-
-Project 2: Snake Water Gun Game
-A variation of the classic Rock-Paper-Scissors game.
+**Project 2** 
+- Snake Water Gun Game
+- A variation of the classic Rock-Paper-Scissors game.
