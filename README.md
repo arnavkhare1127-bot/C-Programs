@@ -1,5 +1,5 @@
-💻 C Programming Practice
-The course is divided into several chapters, each focusing on different aspects of C programming:
+## 💻 C Programming Practice
+- The course is divided into several chapters, each focusing on different aspects of C programming:
 
 ## 📚 Topics Covered
 **Variables, Constants & Keywords**
@@ -48,7 +48,7 @@ The course is divided into several chapters, each focusing on different aspects 
 - malloc(), calloc(), realloc(), and free() functions.
 - Managing dynamically allocated memory.
   
-##Projects
+## 📂Projects
 **Project 1**
 - Number Guessing Game
 - A fun game where the player tries to guess a randomly generated number.
