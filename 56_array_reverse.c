@@ -19,6 +19,8 @@ void reverse(int arr[], int n)
         arr[n - i - 1] = temp;
     }
 }
+/* i from 0 to n/2
+ arr[i] arr[n-i-1]*/
 
 int main()
 {
