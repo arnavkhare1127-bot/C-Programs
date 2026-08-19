@@ -1,5 +1,4 @@
 ## 💻 C Programming Practice
-- The course is divided into several chapters, each focusing on different aspects of C programming:
 
 ## 📚 Topics Covered
 **Variables, Constants & Keywords**
