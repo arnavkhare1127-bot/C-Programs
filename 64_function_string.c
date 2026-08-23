@@ -3,7 +3,7 @@
 int main()
 {
     char st[] = "Arnav";
-    // STRLEN()
+    // STRLEN()= string length
     printf("%d", strlen(st));
     return 0;
 }
